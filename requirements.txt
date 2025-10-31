@@ -1,2 +1,3 @@
 Flask
 Spire.Doc==<version>  # Replace with actual version or dependency
+gunicorn
